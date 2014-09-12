@@ -1,6 +1,8 @@
 2d-thermography
 ===============
 
+more details on http://www.posttenebraslab.ch/wiki/projects/2d-thermography
+
 Aquire points or render a 2d-thermography image  using a MLX90614 IR thermometer
 
 This project is mainly going to be a proof of concept :
@@ -37,7 +39,6 @@ BOM :
 
 * http://shop.boxtec.ch/infrared-thermometer-sensor-medical-mlx90614esf-dci-p-40658.html
 * http://www.aliexpress.com/snapshot/6167745304.html
-* http://www.aliexpress.com/snapshot/6124275888.html
 * http://imall.iteadstudio.com/im120417015.html
 
 
